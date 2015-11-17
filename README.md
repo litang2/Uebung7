@@ -29,6 +29,8 @@ Böing Genia - boegen00
 
 Büchner Clemens - ClemensBuechner
 
+Bühlmann Nils - Fjolyo
+
 Beyeler Tobias - tbeyeler
 
 Berger Celine - celineclaudia
@@ -110,8 +112,6 @@ Maier Lukas - mailuk00
 Michel Aaron - Fracardii
 ##N
 Nghiem Meipei - Meipei
-
-Bühlmann Nils - Fjolyo
 
 Nusch Désirée - DesyCookie
 
