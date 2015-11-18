@@ -62,6 +62,8 @@ Gabriel Gasser - ggas
 
 Galery Käser Lucas - daydreamer12711
 
+Günther Julian - gyroone
+
 Gurtner Silvio - SilvioG
 
 ##H
@@ -167,8 +169,6 @@ Schärer Jonas - schjon11
 Seidinger Daniel - Xyren0
 
 Schwendener Linard - Teifun2
-
-Schittny Valentin - valivalison96
 
 ##T
 Tran Lisa - zeryetia
