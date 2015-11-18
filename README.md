@@ -117,6 +117,8 @@ Lotter Claudia - celineclaudia
 
 Luchsinger Carina - Carinaluchs
 
+Lüthi Elias - lueeli
+
 ##M
 Motschan-Armen Ioanna - IoannaM
 
