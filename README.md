@@ -85,6 +85,8 @@ Hackinger Max - happychameleon
 
 Hauri Ramon - RamonHauri
 
+Habig Simeon - simzuiop
+
 ##I
 Illi Cristina - 
 
@@ -159,8 +161,6 @@ Röthlisberger Ramon - rr1774
 Saladin Andreas
 
 Schaub Nicolas - nici123
-
-Simeon Habig - simzuiop
 
 Schneider Lukas
 
