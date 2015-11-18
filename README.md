@@ -92,6 +92,8 @@ Korff Alexander - AlexanderKorff
 Küng Christoph - ChristophKueng
 
 Kaiser Rahel - Rahel6313
+
+Kraus Manuel - ManuelKraus
 ##L
 Limaco Sebastian - SebastianLimaco
 
