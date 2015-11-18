@@ -72,6 +72,8 @@ Günther Julian - gyroone
 Gurtner Silvio - SilvioG
 
 ##H
+Hansmann Lukas - lukashansmann
+
 Hauk Pascal - UniBasel
 
 Hünenberger Maximilian - Qbyte248
