@@ -142,6 +142,8 @@ Padickakudy Doris - dorispadickakudy
 ##Q
 
 ##R
+Reddel Felicitas - MarieCurienatrix
+
 Rohrer Christoph - chris-rohrer
 
 Röthlisberger Ramon - rr1774
