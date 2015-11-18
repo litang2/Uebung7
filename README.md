@@ -180,6 +180,8 @@ Senft Tobias - TobiasSenft
 
 Santamaria Noemi - noemisa
 
+Stalder Martin - MAS1995
+
 Stehl Willy - WillyStehl
 
 Stöcklin Yannik - ystoecklin
