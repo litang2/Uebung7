@@ -200,6 +200,8 @@ Wyss Vanessa - Sebby96
 
 Weber Mario - Webmar
 
+Wellauer Joël - Werkzeugederinformatik
+
 Wanner Kai - CappaAI10
 
 Wichmann Natalie - NatalieWichmann
